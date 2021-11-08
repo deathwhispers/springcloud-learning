@@ -1,0 +1,11 @@
+server:
+  port: 18002
+
+spring:
+  application:
+    name: demo01-consumer # Spring 应用名
+  cloud:
+    nacos:
+      # Nacos 作为注册中心的配置项，对应 NacosDiscoveryProperties 配置类
+      discovery:
+        server-addr: guangjian.top:18048 # Nacos 服务器地址
