@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="nacos-discovery-demo01-provider" />
+        <module name="nacos-discovery-demo01-consumer" />
+        <module name="user-consumer-demo" />
+        <module name="spring-cloud-provider" />
+        <module name="ribbon-demo02-provider" />
+        <module name="spring-cloud-common" />
+        <module name="ribbon-demo01-consumer" />
+        <module name="nacos-discovery-demo02-consumer" />
+        <module name="spring-cloud-alibaba-nacos-demo" />
+        <module name="nacos-discovery-demo02-provider" />
+        <module name="spring-cloud-consumer" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="nacos-discovery-demo01-consumer" options="-parameters" />
+      <module name="nacos-discovery-demo01-provider" options="-parameters" />
+      <module name="nacos-discovery-demo02-consumer" options="-parameters" />
+      <module name="nacos-discovery-demo02-provider" options="-parameters" />
+      <module name="ribbon-demo01-consumer" options="-parameters" />
+      <module name="ribbon-demo02-provider" options="-parameters" />
+      <module name="spring-cloud-alibaba-nacos-demo" options="-parameters" />
+      <module name="spring-cloud-common" options="-parameters" />
+      <module name="spring-cloud-consumer" options="-parameters" />
+      <module name="spring-cloud-provider" options="-parameters" />
+      <module name="user-consumer-demo" options="-parameters" />
+    </option>
+  </component>
+</project>
