@@ -27,7 +27,7 @@ public class TestController {
 
     @GetMapping("/hello")
     public String hello(String name) {
-        // 获得服务 `demo-provider` 的一个实例
+        // 获得服务 demo-provider 的一个实例
         ServiceInstance instance = loadBalancerClient.choose("demo-provider");
         // 发起调用
         String targetUrl = instance.getUri() + "/echo?name=" + name;
