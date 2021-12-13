@@ -1,4 +1,4 @@
-package com.guangjian.nacos.discovery.demo01.consumer.config;
+package com.guangjian.nacos.discovery.demo02.consumer.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

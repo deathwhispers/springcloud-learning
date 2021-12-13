@@ -9,6 +9,11 @@
         <option value="$PROJECT_DIR$/nacos-discovery-demo02-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/ribbon-demo01-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/ribbon-demo02-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos-feign-demo01-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos-feign-demo01-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/feign-demo01-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/feign-demo01-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon-demo01-provider/pom.xml" />
       </list>
     </option>
   </component>
