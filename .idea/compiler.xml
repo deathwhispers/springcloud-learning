@@ -8,12 +8,18 @@
         <outputRelativeToContentRoot value="true" />
         <module name="nacos-discovery-demo01-provider" />
         <module name="nacos-discovery-demo01-consumer" />
+        <module name="gRPC-demo01-server" />
         <module name="user-consumer-demo" />
         <module name="feign-demo01-consumer" />
         <module name="spring-cloud-provider" />
         <module name="ribbon-demo01-consumer" />
         <module name="spring-cloud-alibaba-nacos-demo" />
+        <module name="gateway-registry-demo01" />
         <module name="nacos-discovery-demo02-provider" />
+        <module name="gRPC-demo01-service-api" />
+        <module name="gateway-user-service-demo01" />
+        <module name="gRPC-demo01-client" />
+        <module name="gateway-demo01" />
         <module name="spring-cloud-common" />
         <module name="ribbon-demo01-provider" />
         <module name="nacos-discovery-demo02-consumer" />
@@ -26,6 +32,10 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="feign-demo01-consumer" options="-parameters" />
       <module name="feign-demo01-provider" options="-parameters" />
+      <module name="gRPC-demo01-service-api" options="-parameters" />
+      <module name="gateway-demo01" options="-parameters" />
+      <module name="gateway-registry-demo01" options="-parameters" />
+      <module name="gateway-user-service-demo01" options="-parameters" />
       <module name="nacos-discovery-demo01-consumer" options="-parameters" />
       <module name="nacos-discovery-demo01-provider" options="-parameters" />
       <module name="nacos-discovery-demo02-consumer" options="-parameters" />

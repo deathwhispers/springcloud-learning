@@ -1,0 +1,9 @@
+server:
+  port: ${random.int[18000,18100]}
+
+spring:
+  cloud:
+    # Nacos 作为注册中心的配置项
+    nacos:
+      discovery:
+        server-addr: guangjian.top:18048 # Nacos 服务器地址

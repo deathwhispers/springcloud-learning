@@ -29,6 +29,9 @@
         <module>feign-demo01-provider</module>
         <module>ribbon-demo01-consumer</module>
         <module>ribbon-demo01-provider</module>
+        <module>gRPC-demo01-client</module>
+        <module>gRPC-demo01-server</module>
+        <module>gRPC-demo01-service-api</module>
     </modules>
 
     <properties>

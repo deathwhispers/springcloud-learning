@@ -14,6 +14,14 @@
         <option value="$PROJECT_DIR$/feign-demo01-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/feign-demo01-provider/pom.xml" />
         <option value="$PROJECT_DIR$/ribbon-demo01-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/gRPC-demo01-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/gRPC-demo01-server/pom.xml" />
+        <option value="$PROJECT_DIR$/gRPC-demo01-client/pom.xml" />
+        <option value="$PROJECT_DIR$/geteway-demo01/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway-demo01/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway-demo01-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway-registry-demo01/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway-user-service-demo01/pom.xml" />
       </list>
     </option>
   </component>
