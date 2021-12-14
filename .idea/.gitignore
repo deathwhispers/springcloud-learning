@@ -15,3 +15,11 @@ target/
 .idea/
 #忽略所有.iml文件
 *.iml
+/compiler.xml
+/encodings.xml
+/jarRepositories.xml
+/misc.xml
+/inspectionProfiles/Project_Default.xml
+/smartfox_info.xml
+/uiDesigner.xml
+/vcs.xml
