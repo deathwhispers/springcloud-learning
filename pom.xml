@@ -32,6 +32,9 @@
         <module>gRPC-demo01-client</module>
         <module>gRPC-demo01-server</module>
         <module>gRPC-demo01-service-api</module>
+        <module>gateway-demo01</module>
+        <module>gateway-registry-demo01</module>
+        <module>gateway-user-service-demo01</module>
     </modules>
 
     <properties>
